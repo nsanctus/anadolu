@@ -11,7 +11,7 @@ export const config = {
     },
     NAV_ITEMS: [
         { href: '/projects', label: 'Projeler' },
-        { href: '/contact', label: 'Contact' }
+        { href: '/contact', label: 'İletişim' }
     ],
     recentTracks: true, // Enable/disable Spotify recent tracks
     projects: [
