@@ -33,65 +33,36 @@ export const config = {
             demo: "https://youtu.be/MFTs09EJYxc"
         }
     ],
-    skills: [
-        {
-            title: "Frontend",
-            icon: <HiCode />,
-            description: "Modern web interfaces",
-            bgClass: "bg-blue-500/10",
-            iconClass: "text-blue-500",
-            skills: [
-                { name: "Next.js 15", level: "Advanced", hot: true },
-                { name: "React", level: "Advanced" },
-                { name: "TailwindCSS", level: "Expert" },
-                { name: "JavaScript", level: "Advanced" },
-                { name: "Framer Motion", level: "Intermediate" }
-            ]
-        },
-        {
-            title: "Backend",
-            icon: <HiDatabase />,
-            description: "Server & Database",
-            bgClass: "bg-emerald-500/10",
-            iconClass: "text-emerald-500",
-            skills: [
-                { name: "Node.js", level: "Advanced", hot: true },
-                { name: "MongoDB", level: "Advanced" },
-                { name: "Express.js", level: "Advanced", hot: true }
-            ]
-        },
-        {
-            title: "Programs & Tools",
-            icon: <HiCube />,
-            description: "Development & Productivity Tools",
-            bgClass: "bg-orange-500/10",
-            iconClass: "text-orange-500",
-            skills: [
-                { name: "VS Code", level: "Expert", hot: true },
-                { name: "Postman", level: "Advanced" },
-                { name: "Photoshop", level: "Intermediate" },
-                { name: "Git", level: "Advanced" }
-            ]
-        }
-    ],
     contactInfo: [
         {
             icon: <FaDiscord className="w-5 h-5" />,
             label: "Discord",
-            value: "fr3zy",
-            link: `https://discord.com/users/1155137511954337887`
+            value: "Anadolu Modding Team",
+            link: `https://discord.gg/anadolumoddingteam`
         },
         {
-            icon: <FaGithub className="w-5 h-5" />,
-            label: "GitHub",
-            value: "@fr3zy",
-            link: `https://github.com/fr3zyy`
+            icon: <FaDiscord className="w-5 h-5" />,
+            label: "Car / Clothing / Texture",
+            value: "Ateş",
+            link: `https://discord.com/users/1095353068343787621`
         },
         {
-            icon: <HiMail className="w-5 h-5" />,
-            label: "Email",
-            value: "fr3zy@example.com",
-            link: "mailto:fr3zy@example.com"
+            icon: <FaDiscord className="w-5 h-5" />,
+            label: "Ymap / Car",
+            value: "sWest",
+            link: `https://discord.com/users/918501966731165696`
+        },
+        {
+            icon: <FaDiscord className="w-5 h-5" />,
+            label: "3D Artist",
+            value: "Polizontal",
+            link: `https://discord.com/users/985910996185002076`
+        },
+        {
+            icon: <FaDiscord className="w-5 h-5" />,
+            label: "3D Artist",
+            value: "Maxis",
+            link: `https://discord.com/users/1319938769238888489`
         },
         {
             icon: <FaMapPin className="w-5 h-5" />,
