@@ -3,14 +3,14 @@ import { HiCode, HiCube, HiDatabase, HiMail } from "react-icons/hi";
 
 export const config = {
     developer: {
-        name: "Fr3zy",
+        name: "Ateş",
     },
     social: {
-        github: "Fr3zyy",
-        discord: "1155137511954337887"
+        github: "Ateş",
+        discord: "1095353068343787621"
     },
     NAV_ITEMS: [
-        { href: '/projects', label: 'Projects' },
+        { href: '/projects', label: 'Projeler' },
         { href: '/contact', label: 'Contact' }
     ],
     recentTracks: true, // Enable/disable Spotify recent tracks
