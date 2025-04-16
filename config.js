@@ -17,29 +17,20 @@ export const config = {
     projects: [
         {
             id: 1,
-            title: "Personal Portfolio Website",
-            description: "A modern and responsive portfolio website to showcase my projects, skills, and experiences. Built with Next.js and styled using TailwindCSS, this site provides a seamless user experience and a clean design that adapts to all devices.",
+            title: "5 Animasyonlu Armas İnfinity",
+            description: "Anadolu Modding Team Olarak Gerçeği İle Birebir Aynı 5 Animasyonlu Armas İnfinity Projemiz",
             image: "/projects/portfolio-app.png",
-            technologies: ["Next.js", "TailwindCSS", "Framer Motion", "Vercel"],
-            github: "https://github.com/fr3zyy/portfolio-website",
-            demo: "https://fr3zy.vercel.app"
+            technologies: ["sWest", "Ellunait", "Maxis"],
+            github: "https://discord.gg/anadolumoddingteam",
+            demo: "https://www.youtube.com/watch?v=Zzr5tNavwHQ"
         },
         {
             id: 2,
-            title: "Code Share Website",
-            description: "A platform that allows users to share and review their code and profiles.",
+            title: "Ek Polis Karakolu",
+            description: "Çok sevgili arkadaşlar kendi yapımımız olan Türk Polis Ek Karakolunu sizlerin huzuruna sunuyoruz. Satın alım için ticket oluşturunuz. Karakolun görünüşünü bu linkten ulaşabilirsiniz;",
             image: "/projects/code-share-app.png",
-            technologies: ["Next.js", "MongoDB", "Express"],
-            demo: "https://nirvania.xyz"
-        },
-        {
-            id: 3,
-            title: "Wytra Bot",
-            description: "Enhance your server, simplify moderation, and boost engagement with a versatile Discord bot equipped with customizable commands and powerful features.",
-            image: "/projects/wytra-bot-app.png",
-            technologies: ["React", "Discord.js", "Node.js", "MongoDB"],
-            github: "https://github.com",
-            demo: "https://wytra.fun"
+            technologies: ["sWest", "Maxis"],
+            demo: "https://youtu.be/MFTs09EJYxc"
         }
     ],
     skills: [
